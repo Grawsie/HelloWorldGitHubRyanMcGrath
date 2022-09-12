@@ -1,0 +1,8 @@
+C:\Users\w0460070\OneDrive - Nova Scotia Community College\Intro to Logic And Programming 1\HelloWorldGitHubRyanMcGrath\HelloWorldGitHubRyanMcGrath\obj\Debug\HelloWorldGitHubRyanMcGrath.csproj.AssemblyReference.cache
+C:\Users\w0460070\OneDrive - Nova Scotia Community College\Intro to Logic And Programming 1\HelloWorldGitHubRyanMcGrath\HelloWorldGitHubRyanMcGrath\obj\Debug\HelloWorldGitHubRyanMcGrath.csproj.SuggestedBindingRedirects.cache
+C:\Users\w0460070\OneDrive - Nova Scotia Community College\Intro to Logic And Programming 1\HelloWorldGitHubRyanMcGrath\HelloWorldGitHubRyanMcGrath\obj\Debug\HelloWorldGitHubRyanMcGrath.csproj.CoreCompileInputs.cache
+C:\Users\w0460070\OneDrive - Nova Scotia Community College\Intro to Logic And Programming 1\HelloWorldGitHubRyanMcGrath\HelloWorldGitHubRyanMcGrath\bin\Debug\HelloWorldGitHubRyanMcGrath.exe.config
+C:\Users\w0460070\OneDrive - Nova Scotia Community College\Intro to Logic And Programming 1\HelloWorldGitHubRyanMcGrath\HelloWorldGitHubRyanMcGrath\bin\Debug\HelloWorldGitHubRyanMcGrath.exe
+C:\Users\w0460070\OneDrive - Nova Scotia Community College\Intro to Logic And Programming 1\HelloWorldGitHubRyanMcGrath\HelloWorldGitHubRyanMcGrath\bin\Debug\HelloWorldGitHubRyanMcGrath.pdb
+C:\Users\w0460070\OneDrive - Nova Scotia Community College\Intro to Logic And Programming 1\HelloWorldGitHubRyanMcGrath\HelloWorldGitHubRyanMcGrath\obj\Debug\HelloWorldGitHubRyanMcGrath.exe
+C:\Users\w0460070\OneDrive - Nova Scotia Community College\Intro to Logic And Programming 1\HelloWorldGitHubRyanMcGrath\HelloWorldGitHubRyanMcGrath\obj\Debug\HelloWorldGitHubRyanMcGrath.pdb
